@@ -1,2 +1,2 @@
-# network-security-uas
-Network Security UAS
+# ossesc-hids-installation
+OSSEC HIDS Installation
